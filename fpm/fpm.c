@@ -4,6 +4,9 @@
 
 #include "fpm_config.h"
 
+
+#include "fpm_config.h"
+
 #include <stdlib.h> /* for exit */
 
 #include "fpm.h"
